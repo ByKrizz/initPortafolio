@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: #fff;
+}
+
+.navbar {
+    background-color: #b00000 !important;
+}
+
+.navbar-brand {
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #900;
+    color: white;
+}
+
+.container h2 {
+    color: #b00000;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.card {
+    background-color: #222;
+    border: 2px solid #b00000;
+    color: #fff;
+}
+
+.card-title {
+    color: #b00000;
+    font-weight: bold;
+}
+
+.card-body {
+    text-align: center;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+footer {
+    background-color: #b00000;
+    color: white;
+    padding: 10px;
+}
